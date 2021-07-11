@@ -19,15 +19,15 @@
 
 **Android:** 
 
-` rm -rf siriinstaller && bash <(curl -L https://cutt.ly/Hn15uFi) `
+` YAKINDA...! `
 
 **iOS:**  
 
-`apk update && apk add bash && apk add curl && curl -L -o siri_installer.sh https://bit.ly/3ayPGdk && chmod +x siri_installer.sh && bash siri_installer.sh`
+`YAKINDA...!`
 
 **Windows 10:** 
 
-`Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://bit.ly/3dEefrp')`
+`YAKINDA...!`
 
 
 🇹🇷**Tarayıcı Kurulum / Online Setup**🇺🇲
